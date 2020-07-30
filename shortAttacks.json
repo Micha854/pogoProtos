@@ -1,0 +1,342 @@
+{
+  "200": {
+    "de": "Zornklinge",
+    "en": "Fury Cutter",
+    "fr": "Taillade"
+  },
+  "201": {
+    "de": "Käferbiss",
+    "en": "Bug Bite",
+    "fr": "Piqûre"
+  },
+  "202": {
+    "de": "Biss",
+    "en": "Bite",
+    "fr": "Morsure"
+  },
+  "203": {
+    "de": "Tiefschlag",
+    "en": "Sucker Punch",
+    "fr": "Coup Bas"
+  },
+  "204": {
+    "de": "Feuerodem",
+    "en": "Dragon Breath",
+    "fr": "Dracosouffle"
+  },
+  "205": {
+    "de": "Donnerschock",
+    "en": "Thunder Shock Punch",
+    "fr": "Éclair"
+  },
+  "206": {
+    "de": "Funkensprung",
+    "en": "Spark",
+    "fr": "Étincelle"
+  },
+  "207": {
+    "de": "Fußkick",
+    "en": "Low Kick",
+    "fr": "Balayage"
+  },
+  "208": {
+    "de": "Karateschlag",
+    "en": "Karate Chop",
+    "fr": "Poing-Karaté"
+  },
+  "209": {
+    "de": "Glut",
+    "en": "Ember",
+    "fr": "Flammèche"
+  },
+  "210": {
+    "de": "Flügelschlag",
+    "en": "Wing Attack",
+    "fr": "Cru-Aile"
+  },
+  "211": {
+    "de": "Schnabel",
+    "en": "Peck",
+    "fr": "Picpic"
+  },
+  "212": {
+    "de": "Schlecker",
+    "en": "Lick",
+    "fr": "Léchouille"
+  },
+  "213": {
+    "de": "Dunkelklaue",
+    "en": "Shadow Claw",
+    "fr": "Griffe Ombre"
+  },
+  "214": {
+    "de": "Rankenhieb",
+    "en": "Vine Whip",
+    "fr": "Fouet Lianes"
+  },
+  "215": {
+    "de": "Rasierblatt",
+    "en": "Razor Leaf",
+    "fr": ""
+  },
+  "216": {
+    "de": "Lehmschuss",
+    "en": "Mud Shot",
+    "fr": "Tranch'Herbe"
+  },
+  "217": {
+    "de": "Eissplitter",
+    "en": "Ice Shard",
+    "fr": "Éclats Glace"
+  },
+  "218": {
+    "de": "Eisesodem",
+    "en": "Frost Breath",
+    "fr": "Souffle Glacé"
+  },
+  "219": {
+    "de": "Ruckzuckhieb",
+    "en": "Quick Attack",
+    "fr": "Vive-Attaque"
+  },
+  "220": {
+    "de": "Kratzer",
+    "en": "Scratch",
+    "fr": "Griffe"
+  },
+  "221": {
+    "de": "Tackle",
+    "en": "Tackle",
+    "fr": "Charge"
+  },
+  "222": {
+    "de": "Pfund",
+    "en": "Pound",
+    "fr": "Écras'Face"
+  },
+  "223": {
+    "de": "Zerschneider",
+    "en": "Cut",
+    "fr": "Coupe"
+  },
+  "224": {
+    "de": "Gifthieb",
+    "en": "Poison Jab",
+    "fr": "Direct Toxik"
+  },
+  "225": {
+    "de": "Säure",
+    "en": "Acid",
+    "fr": "Acide"
+  },
+  "226": {
+    "de": "Psychoklinge",
+    "en": "Psycho Cut",
+    "fr": "Coupe Psycho"
+  },
+  "227": {
+    "de": "Steinwurf",
+    "en": "Rock Throw",
+    "fr": "Jet-Pierres"
+  },
+  "228": {
+    "de": "Metallklaue",
+    "en": "Metal Claw",
+    "fr": "Griffe Acier"
+  },
+  "229": {
+    "de": "Patronenhieb",
+    "en": "Bullet Punch",
+    "fr": "Pisto-Poing"
+  },
+  "230": {
+    "de": "Aquaknarre",
+    "en": "Water Gun",
+    "fr": "Pistolet à O"
+  },
+  "231": {
+    "de": "Platscher",
+    "en": "Splash",
+    "fr": "Trempette"
+  },
+  "232": {
+    "de": "Aquaknarre",
+    "en": "Water Gun",
+    "fr": "Pistolet à O"
+  },
+  "233": {
+    "de": "Lehmschelle",
+    "en": "Mud-Slap",
+    "fr": "Coud'Boue"
+  },
+  "234": {
+    "de": "Zen-Kopfstoß",
+    "en": "Zen Headbutt",
+    "fr": "Psykoud'Boul"
+  },
+  "235": {
+    "de": "Konfusion",
+    "en": "Confusion",
+    "fr": "Choc Mental"
+  },
+  "236": {
+    "de": "Giftstachel",
+    "en": "Poison Sting",
+    "fr": "Dard-Venin"
+  },
+  "237": {
+    "de": "Blubber",
+    "en": "Bubble",
+    "fr": "Écume"
+  },
+  "238": {
+    "de": "Finte",
+    "en": "Feint Attack",
+    "fr": "Feinte"
+  },
+  "239": {
+    "de": "Stahlflügel",
+    "en": "Steel Wing",
+    "fr": "Aile d’Acier"
+  },
+  "240": {
+    "de": "Feuerzahn",
+    "en": "Fire Fang",
+    "fr": "Crocs Feu"
+  },
+  "241": {
+    "de": "Zertrümmerer",
+    "en": "Rock Smash",
+    "fr": "Éclate-Roc"
+  },
+  "242": {
+    "de": "Wandler",
+    "en": "Transform",
+    "fr": "Morphing"
+  },
+  "243": {
+    "de": "Konter",
+    "en": "Counter",
+    "fr": "Riposte"
+  },
+  "244": {
+    "de": "Pulverschnee",
+    "en": "Powder Snow",
+    "fr": "Poudreuse"
+  },
+  "249": {
+    "de": "Ladestrahl",
+    "en": "Charge Beam",
+    "fr": "Rayon Chargé"
+  },
+  "250": {
+    "de": "Voltwechsel",
+    "en": "Volt Switch",
+    "fr": "Change Éclair"
+  },
+  "253": {
+    "de": "Drachenrute",
+    "en": "Dragon Tail",
+    "fr": "Draco-Queue"
+  },
+  "255": {
+    "de": "Luftschnitt",
+    "en": "Air Slash",
+    "fr": "Lame d'Air"
+  },
+  "260": {
+    "de": "Plage",
+    "en": "Infestation",
+    "fr": "Harcèlement"
+  },
+  "261": {
+    "de": "Käfertrutz",
+    "en": "Struggle Bug",
+    "fr": "Survinsecte"
+  },
+  "263": {
+    "de": "Erstauner",
+    "en": "Astonish",
+    "fr": "Étonnement"
+  },
+  "264": {
+    "de": "Bürde",
+    "en": "Hex",
+    "fr": "Châtiment"
+  },
+  "266": {
+    "de": "Eisenschweif",
+    "en": "Iron Tail",
+    "fr": "Queue de Fer"
+  },
+  "269": {
+    "de": "Feuerwirbel",
+    "en": "Fire Spin",
+    "fr": "Danse Flamme"
+  },
+  "271": {
+    "de": "Kugelsaat",
+    "en": "Bullet Seed",
+    "fr": "Balle Graine"
+  },
+  "274": {
+    "de": "Sondersensor",
+    "en": "Extrasensory",
+    "fr": "Extrasenseur"
+  },
+  "278": {
+    "de": "Standpauke",
+    "en": "Snarl",
+    "fr": "Aboiement"
+  },
+  "281": {
+    "de": "Kraftreserve",
+    "en": "Hidden Power",
+    "fr": "Puissance Cachée"
+  },
+  "282": {
+    "de": "Bodycheck",
+    "en": "Take Down",
+    "fr": "Bélier"
+  },
+  "283": {
+    "de": "Kaskade",
+    "en": "Waterfall",
+    "fr": "Cascade"
+  },
+  "287": {
+    "de": "Gähner",
+    "en": "Yawn",
+    "fr": "Bâillement"
+  },
+  "291": {
+    "de": "Geschenk",
+    "en": "Present",
+    "fr": "Cadeau"
+  },
+  "297": {
+    "de": "Katapult",
+    "en": "Smack Down",
+    "fr": "Anti-Air"
+  },
+  "320": {
+    "de": "Charme",
+    "en": "Charm",
+    "fr": "Charme"
+  },
+  "325": {
+    "de": "Zielschuss",
+    "en": "Lock-On",
+    "fr": "Verrouillage"
+  },
+  "326": {
+    "de": "Donnerzahn",
+    "en": "Thunder Fang",
+    "fr": "Crocs Éclair"
+  },
+  "327": {
+    "de": "Eiszahn",
+    "en": "Ice Fang",
+    "fr": "Crocs Givre"
+  }
+}
