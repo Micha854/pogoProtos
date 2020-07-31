@@ -793,5 +793,10 @@
     "de": "V-create",
     "en": "V-create",
     "fr": "V-create"
+  },
+  "null": {
+    "de": "load Attack fehlt",
+    "en": "load Attack is missing",
+    "fr": "load Attack is missing"
   }
 }

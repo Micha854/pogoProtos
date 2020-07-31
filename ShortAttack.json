@@ -338,5 +338,10 @@
     "de": "Eiszahn",
     "en": "Ice Fang",
     "fr": "Crocs Givre"
+  },
+  "null": {
+    "de": "short Attack fehlt",
+    "en": "short Attack is missing",
+    "fr": "short Attack is missing"
   }
 }
