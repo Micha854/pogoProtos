@@ -150,38 +150,38 @@
     "fr": ""
   },
   "30": {
-    "de": "Sunny",
-    "en": "",
+    "de": "Sonne",
+    "en": "Sunny",
     "fr": ""
   },
   "31": {
-    "de": "Rainy",
-    "en": "",
+    "de": "Regen",
+    "en": "Rainy",
     "fr": ""
   },
   "32": {
-    "de": "Snowy",
-    "en": "",
+    "de": "Schnee",
+    "en": "Snowy",
     "fr": ""
   },
   "33": {
-    "de": "",
+    "de": "Normal",
     "en": "",
     "fr": ""
   },
   "34": {
-    "de": "Attack",
-    "en": "",
+    "de": "Angriff",
+    "en": "Attack",
     "fr": ""
   },
   "35": {
-    "de": "Defense",
-    "en": "",
+    "de": "Verteidigung",
+    "en": "Defense",
     "fr": ""
   },
   "36": {
-    "de": "Speed",
-    "en": "",
+    "de": "Initiative",
+    "en": "Speed",
     "fr": ""
   },
   "37": {
@@ -470,12 +470,12 @@
     "fr": ""
   },
   "94": {
-    "de": "Overcast",
+    "de": "Wolke",
     "en": "",
     "fr": ""
   },
   "95": {
-    "de": "Sunny",
+    "de": "Sonne",
     "en": "",
     "fr": ""
   },
