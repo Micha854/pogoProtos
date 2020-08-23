@@ -281,6 +281,18 @@
     "fr": "CT Attaque Chargée",
     "icon": ""
   },
+  "1203": {
+    "de": "Elite Sofort TM",
+    "en": "Elite Fast TM",
+    "fr": "",
+    "icon": "🎫"
+  },
+  "1204": {
+    "de": "Elite Lade TM",
+    "en": "Elite Charge TM",
+    "fr": "",
+    "icon": "🎫"
+  },
   "1301": {
     "de": "Sonderbonbon",
     "en": "Rare Candy",
@@ -323,6 +335,12 @@
     "fr": "Medallón de equipos",
     "icon": "🎖"
   },
+  "1408": {
+    "de": "Fern Raid Pass",
+    "en": "Remote Raid Pass",
+    "fr": "Remote Raid Pass",
+    "icon": "🎫"
+  },
   "1501": {
     "de": "Mysteriöses Teil",
     "en": "Mysterious Component",
@@ -350,6 +368,7 @@
   "null": {
     "de": "Aufgabe nicht bekannt",
     "en": "Task not known",
-    "fr": "Task not known"
+    "fr": "Task not known",
+    "icon": "❗"
   }
 }
