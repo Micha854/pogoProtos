@@ -39,6 +39,11 @@
     "en": "monster encounter",
     "fr": "rencontre monstre"
   },
+  "12": {
+    "de": "Mega Energie",
+    "en": "Mega energy",
+    "fr": "Mega energy"
+  },
   "null": {
     "de": "Unbekannter Quest Type",
     "en": "Unknown quest type",
