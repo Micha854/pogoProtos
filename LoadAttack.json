@@ -784,6 +784,61 @@
     "en": "Fissure",
     "fr": "Abîme"
   },
+  "330": {
+    "de": "Sanctoklinge",
+    "en": "Sacred Sword",
+    "fr": "Lame Sainte"
+  },
+  "331": {
+    "de": "Flying Press",
+    "en": "Flying Press",
+    "fr": "Flying Press"
+  },
+  "332": {
+    "de": "Aurasphäre",
+    "en": "Aura Sphere",
+    "fr": "Aurasphère"
+  },
+  "333": {
+    "de": "Gegenstoß",
+    "en": "Payback",
+    "fr": "Représailles"
+  },
+  "334": {
+    "de": "Felswerfer",
+    "en": "Rock Wrecker",
+    "fr": "Roc-Boulet"
+  },
+  "335": {
+    "de": "Luftstoß",
+    "en": "Aeroblast",
+    "fr": "Aéroblast"
+  },
+  "336": {
+    "de": "Techblaster",
+    "en": "Techno Blast",
+    "fr": "Techno-Buster"
+  },
+  "337": {
+    "de": "Techblaster",
+    "en": "Techno Blast (Fire)",
+    "fr": "Techno-Buster"
+  },
+  "338": {
+    "de": "Techblaster",
+    "en": "Techno Blast (Ice)",
+    "fr": "Techno-Buster"
+  },
+  "339": {
+    "de": "Techblaster",
+    "en": "Techno Blast (Water)",
+    "fr": "Techno-Buster"
+  },
+  "340": {
+    "de": "Techblaster",
+    "en": "Techno Blast (Electric)",
+    "fr": "Techno-Buster"
+  },
   "341": {
     "de": "Fliegen",
     "en": "Fly",
@@ -793,6 +848,16 @@
     "de": "V-create",
     "en": "V-create",
     "fr": "V-create"
+  },
+  "343": {
+    "de": "Blättersturm",
+    "en": "Leaf Storm",
+    "fr": "Tempête Verte"
+  },
+  "344": {
+    "de": "Triplette",
+    "en": "Tri Attack",
+    "fr": "Triplattaque"
   },
   "null": {
     "de": "load Attack fehlt",
