@@ -339,6 +339,11 @@
     "en": "Ice Fang",
     "fr": "Crocs Givre"
   },
+  "345": {
+    "de": "Windstoß",
+    "en": "Gust",
+    "fr": "Tornade"
+  },
   "null": {
     "de": "short Attack fehlt",
     "en": "short Attack is missing",
