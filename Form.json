@@ -430,28 +430,28 @@
     "fr": ""
   },
   "86": {
-    "de": "Heat",
-    "en": "",
+    "de": "Hitze",
+    "en": "Heat",
     "fr": ""
   },
   "87": {
-    "de": "Plant",
-    "en": "",
+    "de": "Pflanze",
+    "en": "Plant",
     "fr": ""
   },
   "88": {
-    "de": "Sandy",
-    "en": "",
+    "de": "Sandig",
+    "en": "Sandy",
     "fr": ""
   },
   "89": {
-    "de": "Trash",
-    "en": "",
+    "de": "Müll",
+    "en": "Trash",
     "fr": ""
   },
   "90": {
-    "de": "Altered",
-    "en": "",
+    "de": "Geändert",
+    "en": "Altered",
     "fr": ""
   },
   "91": {
@@ -480,23 +480,23 @@
     "fr": ""
   },
   "96": {
-    "de": "West Sea",
-    "en": "",
+    "de": "Westliches",
+    "en": "West Sea",
     "fr": ""
   },
   "97": {
-    "de": "East Sea",
-    "en": "",
+    "de": "Östliches",
+    "en": "East Sea",
     "fr": ""
   },
   "98": {
-    "de": "West Sea",
-    "en": "",
+    "de": "Westliches",
+    "en": "West Sea",
     "fr": ""
   },
   "99": {
-    "de": "East Sea",
-    "en": "",
+    "de": "Östliches",
+    "en": "East Sea",
     "fr": ""
   },
   "100": {
@@ -505,23 +505,23 @@
     "fr": ""
   },
   "101": {
-    "de": "Fighting",
-    "en": "",
+    "de": "Kampf",
+    "en": "Fighting",
     "fr": ""
   },
   "102": {
-    "de": "Flying",
-    "en": "",
+    "de": "Fliegend",
+    "en": "Flying",
     "fr": ""
   },
   "103": {
-    "de": "Poison",
-    "en": "",
+    "de": "Gift",
+    "en": "Poison",
     "fr": ""
   },
   "104": {
-    "de": "Ground",
-    "en": "",
+    "de": "Boden",
+    "en": "Ground",
     "fr": ""
   },
   "105": {
@@ -545,18 +545,18 @@
     "fr": ""
   },
   "109": {
-    "de": "Fire",
-    "en": "",
+    "de": "Feuer",
+    "en": "Fire",
     "fr": ""
   },
   "110": {
-    "de": "Water",
-    "en": "",
+    "de": "Wasser",
+    "en": "Water",
     "fr": ""
   },
   "111": {
-    "de": "Grass",
-    "en": "",
+    "de": "Gras",
+    "en": "Grass",
     "fr": ""
   },
   "112": {
@@ -590,13 +590,13 @@
     "fr": ""
   },
   "118": {
-    "de": "Plant",
-    "en": "",
+    "de": "Pflanze",
+    "en": "Plant",
     "fr": ""
   },
   "119": {
-    "de": "Sandy",
-    "en": "",
+    "de": "Sandig",
+    "en": "Sandy",
     "fr": ""
   },
   "120": {
@@ -1630,8 +1630,8 @@
     "fr": ""
   },
   "587": {
-    "de": "Autumn",
-    "en": "",
+    "de": "Herbst",
+    "en": "Autumn",
     "fr": ""
   },
   "588": {
@@ -1640,18 +1640,18 @@
     "fr": ""
   },
   "589": {
-    "de": "Spring",
-    "en": "",
+    "de": "Frühling",
+    "en": "Spring",
     "fr": ""
   },
   "590": {
-    "de": "Summer",
-    "en": "",
+    "de": "Sommer",
+    "en": "Summer",
     "fr": ""
   },
   "591": {
-    "de": "Autumn",
-    "en": "",
+    "de": "Herbst",
+    "en": "Autumn",
     "fr": ""
   },
   "592": {
@@ -10441,6 +10441,11 @@
   },
   "2586": {
     "de": "Costume 2020",
+    "en": "",
+    "fr": ""
+  },
+  "2668": {
+    "de": "Lichtl Hut",
     "en": "",
     "fr": ""
   },
