@@ -344,6 +344,11 @@
     "en": "Gust",
     "fr": "Tornade"
   },
+  "346": {
+    "de": "Einäschern",
+    "en": "Cremation",
+    "fr": "Cremation"
+  },
   "null": {
     "de": "short Attack fehlt",
     "en": "short Attack is missing",
