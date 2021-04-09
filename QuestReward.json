@@ -125,6 +125,12 @@
     "fr": "Leurre Magnétique",
     "icon": "🧲"
   },
+  "505": {
+    "de": "Regen-Lockmodul",
+    "en": "Rainy Lure Module",
+    "fr": "Leurre Pluie",
+    "icon": "☔️"
+  },
   "602": {
     "de": "X Attack",
     "en": "X Attack",
