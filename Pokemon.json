@@ -4044,6 +4044,26 @@
     "en": "Melmetal",
     "fr": "Melmetal"
   },
+  "819": {
+    "de": "Raffel",
+    "en": "Raffel",
+    "fr": "Raffel"
+  },
+  "820": {
+    "de": "Schlaraffel",
+    "en": "Schlaraffel",
+    "fr": "Schlaraffel"
+  },
+  "831": {
+    "de": "Wolly",
+    "en": "Wolly",
+    "fr": "Wolly"
+  },
+  "832": {
+    "de": "Zwollock",
+    "en": "Zwollock",
+    "fr": "Zwollock"
+  },
   "862": {
     "de": "Barrikadax",
     "en": "Obstagoon",
@@ -4068,6 +4088,21 @@
     "de": "Oghnatoll",
     "en": "Runerigus",
     "fr": "Runerigus"
+  },
+  "870": {
+    "de": "Legios",
+    "en": "Legios",
+    "fr": "Legios"
+  },
+  "888": {
+    "de": "Zacian",
+    "en": "Zacian",
+    "fr": "Zacian"
+  },
+  "889": {
+    "de": "Zamazenta",
+    "en": "Zamazenta",
+    "fr": "Zamazenta"
   },
   "null": {
     "de": "pokemon fehlt",
