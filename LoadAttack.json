@@ -859,6 +859,11 @@
     "en": "Tri Attack",
     "fr": "Triplattaque"
   },
+  "348": {
+    "de": "Daunenreigen",
+    "en": "Feather Dance",
+    "fr": "Danse-Plume"
+  },
   "null": {
     "de": "load Attack fehlt",
     "en": "load Attack is missing",
