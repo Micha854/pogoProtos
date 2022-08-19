@@ -10454,6 +10454,11 @@
     "en": "warrior",
     "fr": "warrior"
   },
+  "2579": {
+    "de": "Krieger",
+    "en": "warrior",
+    "fr": "warrior"
+  },
   "2518": {
     "de": "Purified",
     "en": "",
@@ -10893,6 +10898,16 @@
     "de": "2022",
     "en": "2022",
     "fr": "2022"
+  },
+  "2788": {
+    "de": "Hisui",
+    "en": "Hisui",
+    "fr": "Hisui"
+  },
+  "2806": {
+    "de": "Worlds Championship 2022",
+    "en": "Worlds Championship 2022",
+    "fr": "Worlds Championship 2022"
   },
   "null": {
     "de": "Form fehlt",

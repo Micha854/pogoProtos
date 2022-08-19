@@ -241,23 +241,28 @@
   },
   "49": {
     "de": "Halloween 2021",
-    "en": "",
-    "fr": ""
+    "en": "Halloween 2021",
+    "fr": "Halloween 2021"
   },
   "52": {
     "de": "Winter 2021",
-    "en": "",
-    "fr": ""
+    "en": "Winter 2021",
+    "fr": "Winter 2021"
   },
-    "54": {
+  "53": {
+    "de": "Crossover-Event 2022",
+    "en": "Crossover-Event 2022",
+    "fr": "Crossover-Event 2022"
+  },
+  "54": {
     "de": "Neujahr 21/22",
-    "en": "",
-    "fr": ""
+    "en": "Neujahr 21/22",
+    "fr": "Neujahr 21/22"
   },
-    "55": {
+  "55": {
     "de": "Go Fest 2022",
-    "en": "",
-    "fr": ""
+    "en": "Go Fest 2022",
+    "fr": "Go Fest 2022"
   },
   "null": {
     "de": "Hut fehlt",
