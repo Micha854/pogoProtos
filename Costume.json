@@ -264,9 +264,14 @@
     "en": "Go Fest 2022",
     "fr": "Go Fest 2022"
   },
+  "58": {
+    "de": "Fashion Week 2022",
+    "en": "Fashion Week 2022",
+    "fr": "Fashion Week 2022"
+  },
   "null": {
-    "de": "Hut fehlt",
-    "en": "hat is missing",
-    "fr": "hat is missing"
+    "de": "Kostüm fehlt",
+    "en": "costume is missing",
+    "fr": "costume is missing"
   }
 }
