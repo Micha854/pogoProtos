@@ -1,4 +1,694 @@
 {
+  "0": {
+    "de": "unbekannte Attacke",
+    "en": "Unknown Move",
+    "fr": "Unknown Move"
+  },
+  "1": {
+    "de": "Donnerschock",
+    "en": "Thunder Shock",
+    "fr": "Thunder Shock"
+  },
+  "2": {
+    "de": "Ruckzuckhieb",
+    "en": "Quick Attack",
+    "fr": "Quick Attack"
+  },
+  "3": {
+    "de": "Kratzer",
+    "en": "Scratch",
+    "fr": "Scratch"
+  },
+  "4": {
+    "de": "Glut",
+    "en": "Ember",
+    "fr": "Ember"
+  },
+  "5": {
+    "de": "Rankenhieb",
+    "en": "Vine Whip",
+    "fr": "Vine Whip"
+  },
+  "6": {
+    "de": "Tackle",
+    "en": "Tackle",
+    "fr": "Tackle"
+  },
+  "7": {
+    "de": "Rasierblatt",
+    "en": "Razor Leaf",
+    "fr": "Razor Leaf"
+  },
+  "8": {
+    "de": "Bodycheck",
+    "en": "Take Down",
+    "fr": "Take Down"
+  },
+  "9": {
+    "de": "Aquaknarre",
+    "en": "Water Gun",
+    "fr": "Water Gun"
+  },
+  "10": {
+    "de": "Biss",
+    "en": "Bite",
+    "fr": "Bite"
+  },
+  "11": {
+    "de": "Klaps",
+    "en": "Pound",
+    "fr": "Pound"
+  },
+  "12": {
+    "de": "Duplexhieb",
+    "en": "Double Slap",
+    "fr": "Double Slap"
+  },
+  "13": {
+    "de": "Wickel",
+    "en": "Wrap",
+    "fr": "Ligotage"
+  },
+  "14": {
+    "de": "Hyperstrahl",
+    "en": "Hyper Beam",
+    "fr": "Ultralase"
+  },
+  "15": {
+    "de": "Schlecker",
+    "en": "Lick",
+    "fr": "Lick"
+  },
+  "16": {
+    "de": "Finsteraura",
+    "en": "Dark Pulse",
+    "fr": "Vibrobscur"
+  },
+  "17": {
+    "de": "Smog",
+    "en": "Smog",
+    "fr": "Smog"
+  },
+  "18": {
+    "de": "Schlammbad",
+    "en": "Sludge",
+    "fr": "Détritus"
+  },
+  "19": {
+    "de": "Metallklaue",
+    "en": "Metal Claw",
+    "fr": "Metal Claw"
+  },
+  "20": {
+    "de": "Klammer",
+    "en": "Vice Grip",
+    "fr": "Force Poigne"
+  },
+  "21": {
+    "de": "Flammenrad",
+    "en": "Flame Wheel",
+    "fr": "Roue de Feu"
+  },
+  "22": {
+    "de": "Vielender",
+    "en": "Megahorn",
+    "fr": "Mégacorne"
+  },
+  "23": {
+    "de": "Flügelschlag",
+    "en": "Wing Attack",
+    "fr": "Wing Attack"
+  },
+  "24": {
+    "de": "Flammenwurf",
+    "en": "Flamethrower",
+    "fr": "Lance-Flammes"
+  },
+  "25": {
+    "de": "Tiefschlag",
+    "en": "Sucker Punch",
+    "fr": "Sucker Punch"
+  },
+  "26": {
+    "de": "Schaufler",
+    "en": "Dig",
+    "fr": "Tunnel"
+  },
+  "27": {
+    "de": "Fußkick",
+    "en": "Low Kick",
+    "fr": "Low Kick"
+  },
+  "28": {
+    "de": "Kreuzhieb",
+    "en": "Cross Chop",
+    "fr": "Coup-Croix"
+  },
+  "29": {
+    "de": "Psychoklinge",
+    "en": "Psycho Cut",
+    "fr": "Psycho Cut"
+  },
+  "30": {
+    "de": "Psystrahl",
+    "en": "Psybeam",
+    "fr": "Rafale Psy"
+  },
+  "31": {
+    "de": "Erdbeben",
+    "en": "Earthquake",
+    "fr": "Séisme"
+  },
+  "32": {
+    "de": "Steinkante",
+    "en": "Stone Edge",
+    "fr": "Lame de Roc"
+  },
+  "33": {
+    "de": "Eishieb",
+    "en": "Ice Punch",
+    "fr": "Poing-Glace"
+  },
+  "34": {
+    "de": "Herzstempel",
+    "en": "Heart Stamp",
+    "fr": "Crèvecœur"
+  },
+  "35": {
+    "de": "Ladungsstoß",
+    "en": "Discharge",
+    "fr": "Coup d'Jus"
+  },
+  "36": {
+    "de": "Lichtkanone",
+    "en": "Flash Cannon",
+    "fr": "Luminocanon"
+  },
+  "37": {
+    "de": "Pikser",
+    "en": "Peck",
+    "fr": "Peck"
+  },
+  "38": {
+    "de": "Bohrschnabel",
+    "en": "Drill Peck",
+    "fr": "Bec Vrille"
+  },
+  "39": {
+    "de": "Eisstrahl",
+    "en": "Ice Beam",
+    "fr": "Laser Glace"
+  },
+  "40": {
+    "de": "Blizzard",
+    "en": "Blizzard",
+    "fr": "Blizzard"
+  },
+  "41": {
+    "de": "Luftschnitt",
+    "en": "Air Slash",
+    "fr": "Air Slash"
+  },
+  "42": {
+    "de": "Hitzewelle",
+    "en": "Heat Wave",
+    "fr": "Canicule"
+  },
+  "43": {
+    "de": "Duonadel",
+    "en": "Twineedle",
+    "fr": "Twineedle"
+  },
+  "44": {
+    "de": "Gifthieb",
+    "en": "Poison Jab",
+    "fr": "Poison Jab"
+  },
+  "45": {
+    "de": "Aero-Ass",
+    "en": "Aerial Ace",
+    "fr": "Aéropique"
+  },
+  "46": {
+    "de": "Schlagbohrer",
+    "en": "Drill Run",
+    "fr": "Tunnelier"
+  },
+  "47": {
+    "de": "Blütenwirbel",
+    "en": "Petal Blizzard",
+    "fr": "Tempête Florale"
+  },
+  "48": {
+    "de": "Megasauger",
+    "en": "Mega Drain",
+    "fr": "Méga-Sangsue"
+  },
+  "49": {
+    "de": "Käfergebrumm",
+    "en": "Bug Buzz",
+    "fr": "Bourdon"
+  },
+  "50": {
+    "de": "Giftzahn",
+    "en": "Poison Fang",
+    "fr": "Crochet Venin"
+  },
+  "51": {
+    "de": "Nachthieb",
+    "en": "Night Slash",
+    "fr": "Tranche-Nuit"
+  },
+  "52": {
+    "de": "Schlitzer",
+    "en": "Slash",
+    "fr": "Slash"
+  },
+  "53": {
+    "de": "Blubbstrahl",
+    "en": "Bubble Beam",
+    "fr": "Bulles d’O"
+  },
+  "54": {
+    "de": "Überroller",
+    "en": "Submission",
+    "fr": "Sacrifice"
+  },
+  "55": {
+    "de": "Karateschlag",
+    "en": "Karate Chop",
+    "fr": "Karate Chop"
+  },
+  "56": {
+    "de": "Fußtritt",
+    "en": "Low Sweep",
+    "fr": "Balayette"
+  },
+  "57": {
+    "de": "Wasserdüse",
+    "en": "Aqua Jet",
+    "fr": "Aqua-Jet"
+  },
+  "58": {
+    "de": "Nassschweif",
+    "en": "Aqua Tail",
+    "fr": "Hydroqueue"
+  },
+  "59": {
+    "de": "Samenbomben",
+    "en": "Seed Bomb",
+    "fr": "Canon Graine"
+  },
+  "60": {
+    "de": "Psychoschock",
+    "en": "Psyshock",
+    "fr": "Choc Psy"
+  },
+  "61": {
+    "de": "Steinwurf",
+    "en": "Rock Throw",
+    "fr": "Rock Throw"
+  },
+  "62": {
+    "de": "Antik-Kraft",
+    "en": "Ancient Power",
+    "fr": "Pouvoir Antique"
+  },
+  "63": {
+    "de": "Felsgrab",
+    "en": "Rock Tomb",
+    "fr": "Tomberoche"
+  },
+  "64": {
+    "de": "Steinhagel",
+    "en": "Rock Slide",
+    "fr": "Éboulement"
+  },
+  "65": {
+    "de": "Juwelenkraft",
+    "en": "Power Gem",
+    "fr": "Rayon Gemme"
+  },
+  "66": {
+    "de": "Schattenstoß",
+    "en": "Shadow Sneak",
+    "fr": "Ombre Portée"
+  },
+  "67": {
+    "de": "Finsterfaust",
+    "en": "Shadow Punch",
+    "fr": "Poing Ombre"
+  },
+  "68": {
+    "de": "Dunkelklaue",
+    "en": "Shadow Claw",
+    "fr": "Shadow Claw"
+  },
+  "69": {
+    "de": "Unheilböen",
+    "en": "Ominous Wind",
+    "fr": "Vent Mauvais"
+  },
+  "70": {
+    "de": "Spukball",
+    "en": "Shadow Ball",
+    "fr": "Ball'Ombre"
+  },
+  "71": {
+    "de": "Patronenhieb",
+    "en": "Bullet Punch",
+    "fr": "Bullet Punch"
+  },
+  "72": {
+    "de": "Magnetbombe",
+    "en": "Magnet Bomb",
+    "fr": "Bombaimant"
+  },
+  "73": {
+    "de": "Stahlflügel",
+    "en": "Steel Wing",
+    "fr": "Steel Wing"
+  },
+  "74": {
+    "de": "Eisenschädel",
+    "en": "Iron Head",
+    "fr": "Tête de Fer"
+  },
+  "75": {
+    "de": "Parabolladung",
+    "en": "Parabolic Charge",
+    "fr": "Parabocharge"
+  },
+  "76": {
+    "de": "Spark",
+    "en": "Spark",
+    "fr": "Spark"
+  },
+  "77": {
+    "de": "Donnerschlag",
+    "en": "Thunder Punch",
+    "fr": "Poing-Éclair"
+  },
+  "78": {
+    "de": "Donner",
+    "en": "Thunder",
+    "fr": "Fatal-Foudre"
+  },
+  "79": {
+    "de": "Donnerblitz",
+    "en": "Thunderbolt",
+    "fr": "Tonnerre"
+  },
+  "80": {
+    "de": "Windhose",
+    "en": "Twister",
+    "fr": "Ouragan"
+  },
+  "81": {
+    "de": "Feuerodem",
+    "en": "Dragon Breath",
+    "fr": "Dragon Breath"
+  },
+  "82": {
+    "de": "Drachenpuls",
+    "en": "Dragon Pulse",
+    "fr": "Dracochoc"
+  },
+  "83": {
+    "de": "Drachenklaue",
+    "en": "Dragon Claw",
+    "fr": "Dracogriffe"
+  },
+  "84": {
+    "de": "Säuselstimme",
+    "en": "Disarming Voice",
+    "fr": "Voix Enjôleuse"
+  },
+  "85": {
+    "de": "Diebeskuss",
+    "en": "Draining Kiss",
+    "fr": "Vampibaiser"
+  },
+  "86": {
+    "de": "Zauberschein",
+    "en": "Dazzling Gleam",
+    "fr": "Éclat Magique"
+  },
+  "87": {
+    "de": "Mondgewalt",
+    "en": "Moonblast",
+    "fr": "Pouvoir Lunaire"
+  },
+  "88": {
+    "de": "Knuddler",
+    "en": "Play Rough",
+    "fr": "Câlinerie"
+  },
+  "89": {
+    "de": "Giftstreich",
+    "en": "Cross Poison",
+    "fr": "Poison-Croix"
+  },
+  "90": {
+    "de": "Matschbombe",
+    "en": "Sludge Bomb",
+    "fr": "Bomb-Beurk"
+  },
+  "91": {
+    "de": "Schlammwoge",
+    "en": "Sludge Wave",
+    "fr": "Cradovague"
+  },
+  "92": {
+    "de": "Mülltreffer",
+    "en": "Gunk Shot",
+    "fr": "Détricanon"
+  },
+  "93": {
+    "de": "Lehmschuss",
+    "en": "Mud Shot",
+    "fr": "Mud Shot"
+  },
+  "94": {
+    "de": "Knochenkeule",
+    "en": "Bone Club",
+    "fr": "Massd'Os"
+  },
+  "95": {
+    "de": "Dampfwalze",
+    "en": "Bulldoze",
+    "fr": "Piétisol"
+  },
+  "96": {
+    "de": "Schlammbombe",
+    "en": "Mud Bomb",
+    "fr": "Boue-Bombe"
+  },
+  "97": {
+    "de": "Zornklinge",
+    "en": "Fury Cutter",
+    "fr": "Fury Cutter"
+  },
+  "98": {
+    "de": "Käferbiss",
+    "en": "Bug Bite",
+    "fr": "Bug Bite"
+  },
+  "99": {
+    "de": "Ampelleuchte",
+    "en": "Signal Beam",
+    "fr": "Rayon Signal"
+  },
+  "100": {
+    "de": "Kreuzschere",
+    "en": "X-Scissor",
+    "fr": "Plaie-Croix"
+  },
+  "101": {
+    "de": "Nitroladung",
+    "en": "Flame Charge",
+    "fr": "Nitrocharge"
+  },
+  "102": {
+    "de": "Funkenflug",
+    "en": "Flame Burst",
+    "fr": "Rebondifeu"
+  },
+  "103": {
+    "de": "Feuersturm",
+    "en": "Fire Blast",
+    "fr": "Déflagration"
+  },
+  "104": {
+    "de": "Lake",
+    "en": "Brine",
+    "fr": "Saumure"
+  },
+  "105": {
+    "de": "Aquawelle",
+    "en": "Water Pulse",
+    "fr": "Vibraqua"
+  },
+  "106": {
+    "de": "Siedewasser",
+    "en": "Scald",
+    "fr": "Ébullition"
+  },
+  "107": {
+    "de": "Hydropumpe",
+    "en": "Hydro Pump",
+    "fr": "Hydrocanon"
+  },
+  "108": {
+    "de": "Psychokinese",
+    "en": "Psychic",
+    "fr": "Psyko"
+  },
+  "109": {
+    "de": "Psychostoß",
+    "en": "Psystrike",
+    "fr": "Frappe Psy"
+  },
+  "110": {
+    "de": "Eissplitter",
+    "en": "Ice Shard",
+    "fr": "Ice Shard"
+  },
+  "111": {
+    "de": "Eissturm",
+    "en": "Icy Wind",
+    "fr": "Vent Glace"
+  },
+  "112": {
+    "de": "Eisesodem",
+    "en": "Frost Breath",
+    "fr": "Frost Breath"
+  },
+  "113": {
+    "de": "Absorber",
+    "en": "Absorb",
+    "fr": "Absorb"
+  },
+  "114": {
+    "de": "Gigasauger",
+    "en": "Giga Drain",
+    "fr": "Giga-Sangsue"
+  },
+  "115": {
+    "de": "Feuerschlag",
+    "en": "Fire Punch",
+    "fr": "Poing de Feu"
+  },
+  "116": {
+    "de": "Solarstrahl",
+    "en": "Solar Beam",
+    "fr": "Lance-Soleil"
+  },
+  "117": {
+    "de": "Laubklinge",
+    "en": "Leaf Blade",
+    "fr": "Lame-Feuille"
+  },
+  "118": {
+    "de": "Blattgeißel",
+    "en": "Power Whip",
+    "fr": "Mégafouet"
+  },
+  "119": {
+    "de": "Platscher",
+    "en": "Splash",
+    "fr": "Splash"
+  },
+  "120": {
+    "de": "Säure",
+    "en": "Acid",
+    "fr": "Acid"
+  },
+  "121": {
+    "de": "Windschnitt",
+    "en": "Air Cutter",
+    "fr": "Tranch'Air"
+  },
+  "122": {
+    "de": "Orkan",
+    "en": "Hurricane",
+    "fr": "Vent Violent"
+  },
+  "123": {
+    "de": "Durchbruch",
+    "en": "Brick Break",
+    "fr": "Casse-Brique"
+  },
+  "124": {
+    "de": "Zerschneider",
+    "en": "Cut",
+    "fr": "Cut"
+  },
+  "125": {
+    "de": "Sternschauer",
+    "en": "Swift",
+    "fr": "Météores"
+  },
+  "126": {
+    "de": "Hornattacke",
+    "en": "Horn Attack",
+    "fr": "Koud'Korne"
+  },
+  "127": {
+    "de": "Stampfer",
+    "en": "Stomp",
+    "fr": "Écrasement"
+  },
+  "128": {
+    "de": "Kopfnuss",
+    "en": "Headbutt",
+    "fr": "Headbutt"
+  },
+  "129": {
+    "de": "Hyperzahn",
+    "en": "Hyper Fang",
+    "fr": "Croc de Mort"
+  },
+  "130": {
+    "de": "Slam",
+    "en": "Slam",
+    "fr": "Slam"
+  },
+  "131": {
+    "de": "Bodyslam",
+    "en": "Body Slam",
+    "fr": "Plaquage"
+  },
+  "132": {
+    "de": "Erholung",
+    "en": "Rest",
+    "fr": "Repos"
+  },
+  "133": {
+    "de": "Verzweifler",
+    "en": "Struggle",
+    "fr": "Lutte"
+  },
+  "134": {
+    "de": "Siedewasser",
+    "en": "Scald (Blastoise)",
+    "fr": "Ébullition"
+  },
+  "135": {
+    "de": "Hydropumpe",
+    "en": "Hydro Pump (Blastoise)",
+    "fr": "Hydrocanon"
+  },
+  "136": {
+    "de": "Wickel",
+    "en": "Wrap (Green)",
+    "fr": "Ligotage"
+  },
+  "137": {
+    "de": "Wickel",
+    "en": "Wrap (Pink)",
+    "fr": "Ligotage"
+  },
   "200": {
     "de": "Zornklinge",
     "en": "Fury Cutter",
@@ -224,6 +914,26 @@
     "en": "Powder Snow",
     "fr": "Poudreuse"
   },
+  "245": {
+    "de": "Nahkampf",
+    "en": "Close Combat",
+    "fr": "Close Combat"
+  },
+  "246": {
+    "de": "Wuchtschlag",
+    "en": "Dynamic Punch",
+    "fr": "Dynamopoing"
+  },
+  "247": {
+    "de": "Fokusstoß",
+    "en": "Focus Blast",
+    "fr": "Exploforce"
+  },
+  "248": {
+    "de": "Aurorastrahl",
+    "en": "Aurora Beam",
+    "fr": "Onde Boréale"
+  },
   "249": {
     "de": "Ladestrahl",
     "en": "Charge Beam",
@@ -234,15 +944,50 @@
     "en": "Volt Switch",
     "fr": "Change Éclair"
   },
+  "251": {
+    "de": "Stromstoß",
+    "en": "Wild Charge",
+    "fr": "Éclair Fou"
+  },
+  "252": {
+    "de": "Blitzkanone",
+    "en": "Zap Cannon",
+    "fr": "Élecanon"
+  },
   "253": {
     "de": "Drachenrute",
     "en": "Dragon Tail",
     "fr": "Draco-Queue"
   },
+  "254": {
+    "de": "Lawine",
+    "en": "Avalanche",
+    "fr": "Avalanche"
+  },
   "255": {
     "de": "Luftschnitt",
     "en": "Air Slash",
     "fr": "Lame d'Air"
+  },
+  "256": {
+    "de": "Sturzflug",
+    "en": "Brave Bird",
+    "fr": "Rapace"
+  },
+  "257": {
+    "de": "Himmelsfeger",
+    "en": "Sky Attack",
+    "fr": "Piqué"
+  },
+  "258": {
+    "de": "Sandgrab",
+    "en": "Sand Tomb",
+    "fr": "Tourbi-Sable"
+  },
+  "259": {
+    "de": "Felswurf",
+    "en": "Rock Blast",
+    "fr": "Boule Roc"
   },
   "260": {
     "de": "Plage",
@@ -254,6 +999,11 @@
     "en": "Struggle Bug",
     "fr": "Survinsecte"
   },
+  "262": {
+    "de": "Silberhauch",
+    "en": "Silver Wind",
+    "fr": "Vent Argenté"
+  },
   "263": {
     "de": "Erstauner",
     "en": "Astonish",
@@ -264,30 +1014,85 @@
     "en": "Hex",
     "fr": "Châtiment"
   },
+  "265": {
+    "de": "Nachtnebel",
+    "en": "Night Shade",
+    "fr": "Ombre Nocturne"
+  },
   "266": {
     "de": "Eisenschweif",
     "en": "Iron Tail",
     "fr": "Queue de Fer"
+  },
+  "267": {
+    "de": "Gyroball",
+    "en": "Gyro Ball",
+    "fr": "Gyroballe"
+  },
+  "268": {
+    "de": "Rammboss",
+    "en": "Heavy Slam",
+    "fr": "Tacle Lourd"
   },
   "269": {
     "de": "Feuerwirbel",
     "en": "Fire Spin",
     "fr": "Danse Flamme"
   },
+  "270": {
+    "de": "Hitzekoller",
+    "en": "Overheat",
+    "fr": "Surchauffe"
+  },
   "271": {
     "de": "Kugelsaat",
     "en": "Bullet Seed",
     "fr": "Balle Graine"
+  },
+  "272": {
+    "de": "Strauchler",
+    "en": "Grass Knot",
+    "fr": "Nœud Herbe"
+  },
+  "273": {
+    "de": "Energieball",
+    "en": "Energy Ball",
+    "fr": "Éco-Sphère"
   },
   "274": {
     "de": "Sondersensor",
     "en": "Extrasensory",
     "fr": "Extrasenseur"
   },
+  "275": {
+    "de": "Seher",
+    "en": "Future Sight",
+    "fr": "Prescience"
+  },
+  "276": {
+    "de": "Spiegelcape",
+    "en": "Mirror Coat",
+    "fr": "Voile Miroir"
+  },
+  "277": {
+    "de": "Wutanfall",
+    "en": "Outrage",
+    "fr": "Colère"
+  },
   "278": {
     "de": "Standpauke",
     "en": "Snarl",
     "fr": "Aboiement"
+  },
+  "279": {
+    "de": "Knirscher",
+    "en": "Crunch",
+    "fr": "Mâchouille"
+  },
+  "280": {
+    "de": "Schmarotzer",
+    "en": "Foul Play",
+    "fr": "Tricherie"
   },
   "281": {
     "de": "Kraftreserve",
@@ -304,54 +1109,479 @@
     "en": "Waterfall",
     "fr": "Cascade"
   },
+  "284": {
+    "de": "Surfer",
+    "en": "Surf",
+    "fr": "Surf"
+  },
+  "285": {
+    "de": "Draco Meteor",
+    "en": "Draco Meteor",
+    "fr": "Draco Météore"
+  },
+  "286": {
+    "de": "Kismetwunsch",
+    "en": "Doom Desire",
+    "fr": "Carnareket"
+  },
   "287": {
     "de": "Gähner",
     "en": "Yawn",
     "fr": "Bâillement"
+  },
+  "288": {
+    "de": "Psyschub",
+    "en": "Psycho Boost",
+    "fr": "Psycho Boost"
+  },
+  "289": {
+    "de": "Ursprungswoge",
+    "en": "Origin Pulse",
+    "fr": "Onde Originelle"
+  },
+  "290": {
+    "de": "Abgrundsklinge",
+    "en": "Precipice Blades",
+    "fr": "Lame Pangéenne"
   },
   "291": {
     "de": "Geschenk",
     "en": "Present",
     "fr": "Cadeau"
   },
+  "292": {
+    "de": "Meteorologe",
+    "en": "Weather Ball (Fire)",
+    "fr": "Ball'Météo"
+  },
+  "293": {
+    "de": "Meteorologe",
+    "en": "Weather Ball (Ice)",
+    "fr": "Ball'Météo"
+  },
+  "294": {
+    "de": "Meteorologe",
+    "en": "Weather Ball",
+    "fr": "Ball'Météo"
+  },
+  "295": {
+    "de": "Meteorologe",
+    "en": "Weather Ball (Water)",
+    "fr": "Ball'Météo"
+  },
+  "296": {
+    "de": "Flora-Statue",
+    "en": "Frenzy Plant",
+    "fr": "Végé-Attak"
+  },
   "297": {
     "de": "Katapult",
     "en": "Smack Down",
     "fr": "Anti-Air"
   },
+  "298": {
+    "de": "Lohekanonade",
+    "en": "Blast Burn",
+    "fr": "Rafale Feu"
+  },
+  "299": {
+    "de": "Aquahaubitze",
+    "en": "Hydro Cannon",
+    "fr": "Hydroblast"
+  },
+  "300": {
+    "de": "Zuflucht",
+    "en": "Last Resort",
+    "fr": "Dernier Recours"
+  },
+  "301": {
+    "de": "Sternenhieb",
+    "en": "Meteor Mash",
+    "fr": "Poing Météore"
+  },
+  "302": {
+    "de": "Schädelwumme",
+    "en": "Skull Bash",
+    "fr": "Coud'Krâne"
+  },
+  "303": {
+    "de": "Säurespeier",
+    "en": "Acid Spray",
+    "fr": "Bombe Acide"
+  },
+  "304": {
+    "de": "Erdkräfte",
+    "en": "Earth Power",
+    "fr": "Telluriforce"
+  },
+  "305": {
+    "de": "Krabbhammer",
+    "en": "Crabhammer",
+    "fr": "Pince-Masse"
+  },
+  "306": {
+    "de": "Anfallen",
+    "en": "Lunge",
+    "fr": "Furie-Bond"
+  },
+  "307": {
+    "de": "Zermalmklaue",
+    "en": "Crush Claw",
+    "fr": "Éclate Griffe"
+  },
+  "308": {
+    "de": "Octazooka",
+    "en": "Octazooka",
+    "fr": "Octazooka"
+  },
+  "309": {
+    "de": "Spiegelsalve",
+    "en": "Mirror Shot",
+    "fr": "Miroi-Tir"
+  },
+  "310": {
+    "de": "Kraftkoloss",
+    "en": "Superpower",
+    "fr": "Surpuissance"
+  },
+  "311": {
+    "de": "Stachelfinale",
+    "en": "Fell Stinger",
+    "fr": "Dard Mortel"
+  },
+  "312": {
+    "de": "Grasmixer",
+    "en": "Leaf Tornado",
+    "fr": "Phytomixeur"
+  },
+  "313": {
+    "de": "Blutsauger",
+    "en": "Leech Life",
+    "fr": "Vampirisme"
+  },
+  "314": {
+    "de": "Ableithieb",
+    "en": "Drain Punch",
+    "fr": "Vampipoing"
+  },
+  "315": {
+    "de": "Schattenknochen",
+    "en": "Shadow Bone",
+    "fr": "Os'Ombre"
+  },
+  "316": {
+    "de": "Lehmbrühe",
+    "en": "Muddy Water",
+    "fr": "Ocroupi"
+  },
+  "317": {
+    "de": "Feuerfeger",
+    "en": "Blaze Kick",
+    "fr": "Pied Brûleur"
+  },
+  "318": {
+    "de": "Kalkklinge",
+    "en": "Razor Shell",
+    "fr": "Coquilame"
+  },
+  "319": {
+    "de": "Steigerungshieb",
+    "en": "Power-Up Punch",
+    "fr": "Poing Boost"
+  },
   "320": {
     "de": "Charme",
     "en": "Charm",
-    "fr": "Charme"
+    "fr": "Charm"
+  },
+  "321": {
+    "de": "Gigastoß",
+    "en": "Giga Impact",
+    "fr": "Giga Impact"
+  },
+  "322": {
+    "de": "Frustration",
+    "en": "Frustration",
+    "fr": "Frustration"
+  },
+  "323": {
+    "de": "Rückkehr",
+    "en": "Return",
+    "fr": "Retour"
+  },
+  "324": {
+    "de": "Synchrolärm",
+    "en": "Synchronoise",
+    "fr": "Synchropeine"
   },
   "325": {
     "de": "Zielschuss",
     "en": "Lock-On",
-    "fr": "Verrouillage"
+    "fr": "Lock-On"
   },
   "326": {
     "de": "Donnerzahn",
     "en": "Thunder Fang",
-    "fr": "Crocs Éclair"
+    "fr": "Thunder Fang"
   },
   "327": {
     "de": "Eiszahn",
     "en": "Ice Fang",
-    "fr": "Crocs Givre"
+    "fr": "Ice Fang"
+  },
+  "328": {
+    "de": "Hornbohrer",
+    "en": "Horn Drill",
+    "fr": "Empal'Korne"
+  },
+  "329": {
+    "de": "Geofissur",
+    "en": "Fissure",
+    "fr": "Abîme"
+  },
+  "330": {
+    "de": "Sanctoklinge",
+    "en": "Sacred Sword",
+    "fr": "Lame Sainte"
+  },
+  "331": {
+    "de": "Flying Press",
+    "en": "Flying Press",
+    "fr": "Flying Press"
+  },
+  "332": {
+    "de": "Aurasphäre",
+    "en": "Aura Sphere",
+    "fr": "Aurasphère"
+  },
+  "333": {
+    "de": "Gegenstoß",
+    "en": "Payback",
+    "fr": "Représailles"
+  },
+  "334": {
+    "de": "Felswerfer",
+    "en": "Rock Wrecker",
+    "fr": "Roc-Boulet"
+  },
+  "335": {
+    "de": "Luftstoß",
+    "en": "Aeroblast",
+    "fr": "Aéroblast"
+  },
+  "336": {
+    "de": "Techblaster",
+    "en": "Techno Blast",
+    "fr": "Techno-Buster"
+  },
+  "337": {
+    "de": "Techblaster Feuer",
+    "en": "Techno Blast (Fire)",
+    "fr": "Techno-Buster"
+  },
+  "338": {
+    "de": "Techblaster Eis",
+    "en": "Techno Blast (Ice)",
+    "fr": "Techno-Buster"
+  },
+  "339": {
+    "de": "Techblaster Wasser",
+    "en": "Techno Blast (Water)",
+    "fr": "Techno-Buster"
+  },
+  "340": {
+    "de": "Techblaster Elektro",
+    "en": "Techno Blast (Electric)",
+    "fr": "Techno-Buster"
+  },
+  "341": {
+    "de": "Fliegen",
+    "en": "Fly",
+    "fr": "Fly"
+  },
+  "342": {
+    "de": "V-Generator",
+    "en": "V-create",
+    "fr": "V-create"
+  },
+  "343": {
+    "de": "Blättersturm",
+    "en": "Leaf Storm",
+    "fr": "Tempête Verte"
+  },
+  "344": {
+    "de": "Triplette",
+    "en": "Tri Attack",
+    "fr": "Triplattaque"
   },
   "345": {
     "de": "Windstoß",
     "en": "Gust",
-    "fr": "Tornade"
+    "fr": "Gust"
   },
   "346": {
     "de": "Einäschern",
-    "en": "Cremation",
-    "fr": "Cremation"
+    "en": "Incinerate",
+    "fr": "Incinerate"
+  },
+  "347": {
+    "de": "Schlummerort",
+    "en": "Dark Void",
+    "fr": "Dark Void"
+  },
+  "348": {
+    "de": "Daunenreigen",
+    "en": "Feather Dance",
+    "fr": "Danse-Plume"
+  },
+  "349": {
+    "de": "Feuerreigen",
+    "en": "Fiery Dance",
+    "fr": "Fiery Dance"
+  },
+  "350": {
+    "de": "Feenbrise",
+    "en": "Fairy Wind",
+    "fr": "Fairy Wind"
+  },
+  "351": {
+    "de": "Urgesang",
+    "en": "Relic Song",
+    "fr": "Relic Song"
+  },
+  "352": {
+    "de": "Meteorologe",
+    "en": "Weather Ball",
+    "fr": "Weather Ball"
+  },
+  "353": {
+    "de": "Psychobeißer",
+    "en": "Psychic Fangs",
+    "fr": "Psychic Fangs"
+  },
+  "354": {
+    "de": "Dimensionswahn",
+    "en": "Hyperspace Fury",
+    "fr": "Hyperspace Fury"
+  },
+  "355": {
+    "de": "Dimensionsloch",
+    "en": "Hyperspace Hole",
+    "fr": "Hyperspace Hole"
+  },
+  "356": {
+    "de": "Doppelkick",
+    "en": "Double Kick",
+    "fr": "Double Kick"
+  },
+  "357": {
+    "de": "Zauberblatt",
+    "en": "Magical Leaf",
+    "fr": "Magical Leaf"
+  },
+  "358": {
+    "de": "Läuterfeuer",
+    "en": "Sacred Fire",
+    "fr": "Sacred Fire"
+  },
+  "359": {
+    "de": "Eisspeer",
+    "en": "Icicle Spear",
+    "fr": "Icicle Spear"
+  },
+  "360": {
+    "de": "Luftstoß Plus",
+    "en": "Aeroblast Plus",
+    "fr": "Aeroblast Plus"
+  },
+  "361": {
+    "de": "Luftstoß Plus Plus",
+    "en": "Aeroblast Plus Plus",
+    "fr": "Aeroblast Plus Plus"
+  },
+  "362": {
+    "de": "Läuterfeuer Plus",
+    "en": "Sacred Fire Plus",
+    "fr": "Sacred Fire Plus"
+  },
+  "363": {
+    "de": "Läuterfeuer Plus Plus",
+    "en": "Sacred Fire Plus Plus",
+    "fr": "Sacred Fire Plus Plus"
+  },
+  "364": {
+    "de": "Akrobatik",
+    "en": "Acrobatics",
+    "fr": "Acrobatics"
+  },
+  "365": {
+    "de": "Scheinwerfer",
+    "en": "Luster Purge",
+    "fr": "Luster Purge"
+  },
+  "366": {
+    "de": "Nebelball",
+    "en": "Mist Ball",
+    "fr": "Mist Ball"
+  },
+  "367": {
+    "de": "Wirbler",
+    "en": "Brutal Swing",
+    "fr": "Brutal Swing"
+  },
+  "368": {
+    "de": "Walzer",
+    "en": "Rollout",
+    "fr": "Rollout"
+  },
+  "369": {
+    "de": "Schocksamen",
+    "en": "Seed Flare",
+    "fr": "Seed Flare"
+  },
+  "370": {
+    "de": "Abblocker",
+    "en": "Obstruct",
+    "fr": "Obstruct"
+  },
+  "371": {
+    "de": "Schemenkraft",
+    "en": "Shadow Force",
+    "fr": "Shadow Force"
+  },
+  "372": {
+    "de": "Meteorstrahl",
+    "en": "Meteor Beam",
+    "fr": "Meteor Beam"
+  },
+  "373": {
+    "de": "Wasser-Shuriken",
+    "en": "Water Shuriken",
+    "fr": "Water Shuriken"
+  },
+  "374": {
+    "de": "Kreuzdonner",
+    "en": "Fusion Bolt",
+    "fr": "Fusion Bolt"
+  },
+  "375": {
+    "de": "Kreuzflamme",
+    "en": "Fusion Flare",
+    "fr": "Fusion Flare"
+  },
+  "376": {
+    "de": "Poltergeist",
+    "en": "Poltergeist",
+    "fr": "Poltergeist"
+  },
+  "377": {
+    "de": "Pferdestärke",
+    "en": "High Horsepower",
+    "fr": "High Horsepower"
   },
   "null": {
-    "de": "short Attack fehlt",
-    "en": "short Attack is missing",
-    "fr": "short Attack is missing"
+    "de": "Attacke fehlt",
+    "en": "Attack is missing",
+    "fr": "Attack is missing"
   }
 }
