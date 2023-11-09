@@ -864,6 +864,96 @@
     "en": "Feather Dance",
     "fr": "Danse-Plume"
   },
+  "352": {
+    "de": "Meteorologe",
+    "en": "Weather Ball",
+    "fr": "Weather Ball"
+  },
+  "358": {
+    "de": "Läuterfeuer",
+    "en": "Sacred Fire",
+    "fr": "Sacred Fire"
+  },
+  "359": {
+    "de": "Eisspeer",
+    "en": "Icicle Spear",
+    "fr": "Icicle Spear"
+  },
+  "360": {
+    "de": "Luftstoß+",
+    "en": "Aeroblast+",
+    "fr": "Aeroblast+"
+  },
+  "361": {
+    "de": "Luftstoß++",
+    "en": "Aeroblast++",
+    "fr": "Aeroblast++"
+  },
+  "362": {
+    "de": "Läuterfeuer+",
+    "en": "Sacred Fire+",
+    "fr": "Sacred Fire+"
+  },
+  "363": {
+    "de": "Läuterfeuer++",
+    "en": "Sacred Fire++",
+    "fr": "Sacred Fire++"
+  },
+  "364": {
+    "de": "Akrobatik",
+    "en": "Acrobatics",
+    "fr": "Acrobatics"
+  },
+  "365": {
+    "de": "Scheinwerfer",
+    "en": "Luster Purge",
+    "fr": "Luster Purge"
+  },
+  "366": {
+    "de": "Nebelball",
+    "en": "Mist Ball",
+    "fr": "Mist Ball"
+  },
+  "367": {
+    "de": "Wirbler",
+    "en": "Brutal Swing",
+    "fr": "Brutal Swing"
+  },
+  "369": {
+    "de": "Schocksamen",
+    "en": "Seed Flare",
+    "fr": "Seed Flare"
+  },
+  "370": {
+    "de": "Abblocker",
+    "en": "Obstruct",
+    "fr": "Obstruct"
+  },
+  "371": {
+    "de": "Schemenkraft",
+    "en": "Shadow Force",
+    "fr": "Shadow Force"
+  },
+  "372": {
+    "de": "Meteorstrahl",
+    "en": "Meteor Beam",
+    "fr": "Meteor Beam"
+  },
+  "376": {
+    "de": "Poltergeist",
+    "en": "Poltergeist",
+    "fr": "Poltergeist"
+  },
+  "377": {
+    "de": "Pferdestärke",
+    "en": "High Horsepower",
+    "fr": "High Horsepower"
+  },
+  "383": {
+    "de": "Aquadurchstoß",
+    "en": "Liquidation",
+    "fr": "Liquidation"
+  },
   "null": {
     "de": "load Attack fehlt",
     "en": "load Attack is missing",

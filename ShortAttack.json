@@ -349,6 +349,26 @@
     "en": "Cremation",
     "fr": "Cremation"
   },
+  "350": {
+    "de": "Feenbrise",
+    "en": "Fairy Wind",
+    "fr": "Fairy Wind"
+  },
+  "356": {
+    "de": "Doppelkick",
+    "en": "Double Kick",
+    "fr": "Double Kick"
+  },
+  "357": {
+    "de": "Zauberblatt",
+    "en": "Magical Leaf",
+    "fr": "Magical Leaf"
+  },
+  "368": {
+    "de": "Walzer",
+    "en": "Rollout",
+    "fr": "Rollout"
+  },
   "null": {
     "de": "short Attack fehlt",
     "en": "short Attack is missing",
