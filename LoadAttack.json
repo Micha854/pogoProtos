@@ -869,6 +869,11 @@
     "en": "Weather Ball",
     "fr": "Weather Ball"
   },
+  "353": {
+    "de": "Psychobeißer",
+    "en": "Psychic Fangs",
+    "fr": "Psychic Fangs"
+  },
   "358": {
     "de": "Läuterfeuer",
     "en": "Sacred Fire",
@@ -949,10 +954,35 @@
     "en": "High Horsepower",
     "fr": "High Horsepower"
   },
+  "379": {
+    "de": "Breitseite",
+    "en": "Breaking Swipe",
+    "fr": "Breaking Swipe"
+  },
+  "382": {
+    "de": "Magieflamme",
+    "en": "Mystical Fire",
+    "fr": "Mystical Fire"
+  },
   "383": {
     "de": "Aquadurchstoß",
     "en": "Liquidation",
     "fr": "Liquidation"
+  },
+  "391": {
+    "de": "Dreifach-Axel",
+    "en": "Triple Axel",
+    "fr": "Triple Axel"
+  },
+  "392": {
+    "de": "Wegbereiter",
+    "en": "Trailblaze",
+    "fr": "Trailblaze"
+  },
+  "393": {
+    "de": "Brandsand",
+    "en": "Scorching Sands",
+    "fr": "Scorching Sands"
   },
   "null": {
     "de": "load Attack fehlt",
