@@ -4104,6 +4104,646 @@
     "en": "Zamazenta",
     "fr": "Zamazenta"
   },
+  "890": {
+    "de": "Endynalos",
+    "en": "",
+    "fr": ""
+  },
+  "891": {
+    "de": "Dakuma",
+    "en": "",
+    "fr": ""
+  },
+  "892": {
+    "de": "Wulaosu",
+    "en": "",
+    "fr": ""
+  },
+  "893": {
+    "de": "Zarude",
+    "en": "",
+    "fr": ""
+  },
+  "894": {
+    "de": "Regieleki",
+    "en": "",
+    "fr": ""
+  },
+  "895": {
+    "de": "Regidrago",
+    "en": "",
+    "fr": ""
+  },
+  "896": {
+    "de": "Polaross",
+    "en": "",
+    "fr": ""
+  },
+  "897": {
+    "de": "Phantoross",
+    "en": "",
+    "fr": ""
+  },
+  "898": {
+    "de": "Coronospa",
+    "en": "",
+    "fr": ""
+  },
+  "899": {
+    "de": "Damythir",
+    "en": "",
+    "fr": ""
+  },
+  "900": {
+    "de": "Axantor",
+    "en": "",
+    "fr": ""
+  },
+  "901": {
+    "de": "Ursaluna",
+    "en": "",
+    "fr": ""
+  },
+  "902": {
+    "de": "Salmagnis",
+    "en": "",
+    "fr": ""
+  },
+  "903": {
+    "de": "Snieboss",
+    "en": "",
+    "fr": ""
+  },
+  "904": {
+    "de": "Myriador",
+    "en": "",
+    "fr": ""
+  },
+  "905": {
+    "de": "Cupidos",
+    "en": "",
+    "fr": ""
+  },
+  "906": {
+    "de": "Felori",
+    "en": "",
+    "fr": ""
+  },
+  "907": {
+    "de": "Feliospa",
+    "en": "",
+    "fr": ""
+  },
+  "908": {
+    "de": "Maskagato",
+    "en": "",
+    "fr": ""
+  },
+  "909": {
+    "de": "Krokel",
+    "en": "",
+    "fr": ""
+  },
+  "910": {
+    "de": "Lokroko",
+    "en": "",
+    "fr": ""
+  },
+  "911": {
+    "de": "Skelokrok",
+    "en": "",
+    "fr": ""
+  },
+  "912": {
+    "de": "Kwaks",
+    "en": "",
+    "fr": ""
+  },
+  "913": {
+    "de": "Fuentente",
+    "en": "",
+    "fr": ""
+  },
+  "914": {
+    "de": "Bailonda",
+    "en": "",
+    "fr": ""
+  },
+  "915": {
+    "de": "Ferkuli",
+    "en": "",
+    "fr": ""
+  },
+  "916": {
+    "de": "Fragrunz",
+    "en": "",
+    "fr": ""
+  },
+  "917": {
+    "de": "Tarundel",
+    "en": "",
+    "fr": ""
+  },
+  "918": {
+    "de": "Spinsidias",
+    "en": "",
+    "fr": ""
+  },
+  "919": {
+    "de": "Micrick",
+    "en": "",
+    "fr": ""
+  },
+  "920": {
+    "de": "Lextremo",
+    "en": "",
+    "fr": ""
+  },
+  "921": {
+    "de": "Pamo",
+    "en": "",
+    "fr": ""
+  },
+  "922": {
+    "de": "Pamamo",
+    "en": "",
+    "fr": ""
+  },
+  "923": {
+    "de": "Pamomamo",
+    "en": "",
+    "fr": ""
+  },
+  "924": {
+    "de": "Zwieps",
+    "en": "",
+    "fr": ""
+  },
+  "925": {
+    "de": "Famieps",
+    "en": "",
+    "fr": ""
+  },
+  "926": {
+    "de": "Hefel",
+    "en": "",
+    "fr": ""
+  },
+  "927": {
+    "de": "Backel",
+    "en": "",
+    "fr": ""
+  },
+  "928": {
+    "de": "Olini",
+    "en": "",
+    "fr": ""
+  },
+  "929": {
+    "de": "Olivinio",
+    "en": "",
+    "fr": ""
+  },
+  "930": {
+    "de": "Olithena",
+    "en": "",
+    "fr": ""
+  },
+  "931": {
+    "de": "Krawalloro",
+    "en": "",
+    "fr": ""
+  },
+  "932": {
+    "de": "Geosali",
+    "en": "",
+    "fr": ""
+  },
+  "933": {
+    "de": "Sedisal",
+    "en": "",
+    "fr": ""
+  },
+  "934": {
+    "de": "Saltigant",
+    "en": "",
+    "fr": ""
+  },
+  "935": {
+    "de": "Knarbon",
+    "en": "",
+    "fr": ""
+  },
+  "936": {
+    "de": "Crimanzo",
+    "en": "",
+    "fr": ""
+  },
+  "937": {
+    "de": "Azugladis",
+    "en": "",
+    "fr": ""
+  },
+  "938": {
+    "de": "Blipp",
+    "en": "",
+    "fr": ""
+  },
+  "939": {
+    "de": "Wampitz",
+    "en": "",
+    "fr": ""
+  },
+  "940": {
+    "de": "Voltrel",
+    "en": "",
+    "fr": ""
+  },
+  "941": {
+    "de": "Voltrean",
+    "en": "",
+    "fr": ""
+  },
+  "942": {
+    "de": "Mobtiff",
+    "en": "",
+    "fr": ""
+  },
+  "943": {
+    "de": "Mastifioso",
+    "en": "",
+    "fr": ""
+  },
+  "944": {
+    "de": "Sproxi",
+    "en": "",
+    "fr": ""
+  },
+  "945": {
+    "de": "Affiti",
+    "en": "",
+    "fr": ""
+  },
+  "946": {
+    "de": "Weherba",
+    "en": "",
+    "fr": ""
+  },
+  "947": {
+    "de": "Horrerba",
+    "en": "",
+    "fr": ""
+  },
+  "948": {
+    "de": "Tentagra",
+    "en": "",
+    "fr": ""
+  },
+  "949": {
+    "de": "Tenterra",
+    "en": "",
+    "fr": ""
+  },
+  "950": {
+    "de": "Klibbe",
+    "en": "",
+    "fr": ""
+  },
+  "951": {
+    "de": "Chilingel",
+    "en": "",
+    "fr": ""
+  },
+  "952": {
+    "de": "Halupenjo",
+    "en": "",
+    "fr": ""
+  },
+  "953": {
+    "de": "Relluk",
+    "en": "",
+    "fr": ""
+  },
+  "954": {
+    "de": "Skarabaks",
+    "en": "",
+    "fr": ""
+  },
+  "955": {
+    "de": "Flattutu",
+    "en": "",
+    "fr": ""
+  },
+  "956": {
+    "de": "Psiopatra",
+    "en": "",
+    "fr": ""
+  },
+  "957": {
+    "de": "Forgita",
+    "en": "",
+    "fr": ""
+  },
+  "958": {
+    "de": "Tafforgita",
+    "en": "",
+    "fr": ""
+  },
+  "959": {
+    "de": "Granforgita",
+    "en": "",
+    "fr": ""
+  },
+  "960": {
+    "de": "Schligda",
+    "en": "",
+    "fr": ""
+  },
+  "961": {
+    "de": "Schligdri",
+    "en": "",
+    "fr": ""
+  },
+  "962": {
+    "de": "Adebom",
+    "en": "",
+    "fr": ""
+  },
+  "963": {
+    "de": "Normifin",
+    "en": "",
+    "fr": ""
+  },
+  "964": {
+    "de": "Delfinator",
+    "en": "",
+    "fr": ""
+  },
+  "965": {
+    "de": "Knattox",
+    "en": "",
+    "fr": ""
+  },
+  "966": {
+    "de": "Knattatox",
+    "en": "",
+    "fr": ""
+  },
+  "967": {
+    "de": "Mopex",
+    "en": "",
+    "fr": ""
+  },
+  "968": {
+    "de": "Schlurm",
+    "en": "",
+    "fr": ""
+  },
+  "969": {
+    "de": "Lumispross",
+    "en": "",
+    "fr": ""
+  },
+  "970": {
+    "de": "Lumiflora",
+    "en": "",
+    "fr": ""
+  },
+  "971": {
+    "de": "Gruff",
+    "en": "",
+    "fr": ""
+  },
+  "972": {
+    "de": "Friedwuff",
+    "en": "",
+    "fr": ""
+  },
+  "973": {
+    "de": "Flaminkno",
+    "en": "",
+    "fr": ""
+  },
+  "974": {
+    "de": "Flaniwal",
+    "en": "",
+    "fr": ""
+  },
+  "975": {
+    "de": "Kolowal",
+    "en": "",
+    "fr": ""
+  },
+  "976": {
+    "de": "Agiluza",
+    "en": "",
+    "fr": ""
+  },
+  "977": {
+    "de": "Heerashai",
+    "en": "",
+    "fr": ""
+  },
+  "978": {
+    "de": "Nigiragi",
+    "en": "",
+    "fr": ""
+  },
+  "979": {
+    "de": "Epitaff",
+    "en": "",
+    "fr": ""
+  },
+  "980": {
+    "de": "Suelord",
+    "en": "",
+    "fr": ""
+  },
+  "981": {
+    "de": "Farigiraf",
+    "en": "",
+    "fr": ""
+  },
+  "982": {
+    "de": "Dummimisel",
+    "en": "",
+    "fr": ""
+  },
+  "983": {
+    "de": "Gladimperio",
+    "en": "",
+    "fr": ""
+  },
+  "984": {
+    "de": "Riesenzahn",
+    "en": "",
+    "fr": ""
+  },
+  "985": {
+    "de": "Brüllschweif",
+    "en": "",
+    "fr": ""
+  },
+  "986": {
+    "de": "Wutpilz",
+    "en": "",
+    "fr": ""
+  },
+  "987": {
+    "de": "Flatterhaar",
+    "en": "",
+    "fr": ""
+  },
+  "988": {
+    "de": "Kriechflügel",
+    "en": "",
+    "fr": ""
+  },
+  "989": {
+    "de": "Sandfell",
+    "en": "",
+    "fr": ""
+  },
+  "990": {
+    "de": "Eisenrad",
+    "en": "",
+    "fr": ""
+  },
+  "991": {
+    "de": "Eisenbündel",
+    "en": "",
+    "fr": ""
+  },
+  "992": {
+    "de": "Eisenhand",
+    "en": "",
+    "fr": ""
+  },
+  "993": {
+    "de": "Eisenhals",
+    "en": "",
+    "fr": ""
+  },
+  "994": {
+    "de": "Eisenfalter",
+    "en": "",
+    "fr": ""
+  },
+  "995": {
+    "de": "Eisendorn",
+    "en": "",
+    "fr": ""
+  },
+  "996": {
+    "de": "Frospino",
+    "en": "",
+    "fr": ""
+  },
+  "997": {
+    "de": "Cryospino",
+    "en": "",
+    "fr": ""
+  },
+  "998": {
+    "de": "Espinodon",
+    "en": "",
+    "fr": ""
+  },
+  "999": {
+    "de": "Gierspenst",
+    "en": "",
+    "fr": ""
+  },
+  "1000": {
+    "de": "Monetigo",
+    "en": "",
+    "fr": ""
+  },
+  "1001": {
+    "de": "Chongjian",
+    "en": "",
+    "fr": ""
+  },
+  "1002": {
+    "de": "Baojian",
+    "en": "",
+    "fr": ""
+  },
+  "1003": {
+    "de": "Dinglu",
+    "en": "",
+    "fr": ""
+  },
+  "1004": {
+    "de": "Yuyu",
+    "en": "",
+    "fr": ""
+  },
+  "1005": {
+    "de": "Donnersichel",
+    "en": "",
+    "fr": ""
+  },
+  "1006": {
+    "de": "Eisenkrieger",
+    "en": "",
+    "fr": ""
+  },
+  "1007": {
+    "de": "Koraidon",
+    "en": "",
+    "fr": ""
+  },
+  "1008": {
+    "de": "Miraidon",
+    "en": "",
+    "fr": ""
+  },
+  "1009": {
+    "de": "Windewoge",
+    "en": "",
+    "fr": ""
+  },
+  "1010": {
+    "de": "Eisenblatt",
+    "en": "",
+    "fr": ""
+  },
+  "1011": {
+    "de": "Sirapfel",
+    "en": "",
+    "fr": ""
+  },
+  "1012": {
+    "de": "Mortcha",
+    "en": "",
+    "fr": ""
+  },
+  "1013": {
+    "de": "Fatalitcha",
+    "en": "",
+    "fr": ""
+  },
+  "1014": {
+    "de": "Boninu",
+    "en": "",
+    "fr": ""
+  },
+  "1015": {
+    "de": "Benesaru",
+    "en": "",
+    "fr": ""
+  },
+  "1016": {
+    "de": "Beatori",
+    "en": "",
+    "fr": ""
+  },
+  "1017": {
+    "de": "Ogerpon",
+    "en": "",
+    "fr": ""
+  },
   "null": {
     "de": "pokemon fehlt",
     "en": "pokemon is missing",
